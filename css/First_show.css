@@ -1,0 +1,30 @@
+@charset "utf-8";
+/*---------------------------*/
+/* 總框架設定           */
+/*---------------------------*/
+div.container{
+    margin:0;
+    width:100%;
+    margin:10px auto 10px auto;
+    background:#fff;
+    box-shadow:0px 0px 10px 0px #000;
+}
+/*---------------------------*/
+/* 文字段落設定           */
+/*---------------------------*/
+p.Boutton_PlanYourself{
+    font-size:40px;
+    text-align: center;
+    margin-left: 40%;
+    margin-right:40%;
+    margin-top:10%;
+    border-style:solid;
+}
+p.Boutton_line{
+    font-size:40px;
+    text-align: center;
+    margin-left: 40%;
+    margin-right:40%;
+    margin-top:10%;
+    border-style:solid;
+}
